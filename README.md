@@ -9,6 +9,8 @@
    即可正式开始使用
 <img width="416" height="706" alt="98cc4dd6-92dc-4409-abbd-9dd98462fb52" src="https://github.com/user-attachments/assets/dfc6be20-4fc8-4460-8a8b-def3ab05a0e8" />
 
+详细使用教程请看“串门宝-使用指南.pdf”
+实操视频请观看“演示视频.mp4”
 
 ## 🌟 核心功能
 
